@@ -59,7 +59,7 @@ export default function Main() {
                     />
                 </label>
                 
-                <label className="colorInput">color
+                <label className="colorInput">Color
                     <input 
                         name="color"
                         type="color" 
