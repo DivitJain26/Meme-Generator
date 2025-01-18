@@ -135,8 +135,8 @@ input[type="color"] {
   cursor: pointer;
 }
 input[type="color"]::-webkit-color-swatch {
-  border-radius: 15px;
-  border: none;
+  border-radius: 20px;
+  border: 1.5px solid #000000be;
 }
 input[type="color"]::-moz-color-swatch {
   border-radius: 15px;

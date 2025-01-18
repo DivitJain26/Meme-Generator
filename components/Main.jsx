@@ -7,7 +7,7 @@ export default function Main() {
         topText: "God forgives",
         bottomText: "But I don't",
         imageUrl: "https://i.imgflip.com/28s2gu.jpg", 
-        color: "#FFF"
+        color: "#FFFFFF"
     })
     const [allMemes, setAllMemes] = useState([])
     
